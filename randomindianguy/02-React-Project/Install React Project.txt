@@ -1,0 +1,7 @@
+Install React Project
+
+Checkout Structure
+Install Bootstrap
+Checkout API Url
+
+Node and NPM should be installed

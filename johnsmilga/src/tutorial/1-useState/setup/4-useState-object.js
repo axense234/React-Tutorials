@@ -1,0 +1,30 @@
+import React, { useState } from 'react';
+
+const UseStateObject = () => {
+  const [person, setPerson] = useState({
+    name:"peter",
+    age:24,
+    message:'Random message',
+    });
+
+    const[name, setName] = useState('peter')
+    const[age, setAge] = useState(24)
+    const[message, setMessage] = useState("Random message")
+
+    const changeMessage = () =>{
+      // setPerson({... person, message:'Hello world!'})
+      setMessage("Hello world!")
+
+
+    }
+  return (
+   <>
+    <h3>{name}</h3>
+    <h3>{age}</h3>
+    <h3>{message}</h3>
+    <button className="btn" onClick={changeMessage}>Change message</button>
+  </>
+  );
+};
+
+export default UseStateObject;

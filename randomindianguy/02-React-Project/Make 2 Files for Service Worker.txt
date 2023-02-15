@@ -1,0 +1,6 @@
+Make 2 Files for Service Worker
+    1.sw.js in public folder
+    2.swDev in src folder
+
+Register sw file
+Checkout file registered or not

@@ -1,0 +1,4 @@
+How we can use website in offline mode
+    Write code to set files in cache
+    Write code for get file from cache
+    Test offine mode

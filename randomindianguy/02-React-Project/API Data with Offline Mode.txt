@@ -1,0 +1,5 @@
+API Data with Offline Mode
+    Fetch clone event for render code and uncached pagse
+    Set API Data in local store
+    Fetch data from store in offline mode
+    Show offline mode warning to user

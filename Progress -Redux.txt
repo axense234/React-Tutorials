@@ -1,0 +1,8 @@
+Progress(Redux)-React Redux Full Course for Beginners | Redux Toolkit Complete Tutorial:
+-done 1.Redux Introduction
+-done 2.App Structure and Data Flow
+-done 3.Async Logic and Thunks
+-done 4.Blog Project
+-done 5.Performance Optimizations
+-done 6: RTK Query Project
+-done 7: Advanced RTK Query and Redux

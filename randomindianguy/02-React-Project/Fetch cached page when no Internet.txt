@@ -1,0 +1,4 @@
+Fetch cached page when no Internet
+    Removed service worker from chrome
+    Check Internet Connection before fetch cached page
+    Check Network with Internet and with Internet

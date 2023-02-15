@@ -1,0 +1,78 @@
+Progress(React):
+-done Intro
+-done About React
+-done Goals
+-done Structure
+-done Course Requirements
+-done Dev Environment Setup
+-done Text Editor Setup
+-done Command Line Basics
+-done NPM Basics
+-done Create React App
+-done Install Create-React-App
+-done Folder Structure
+-done Clean Boilerplate
+-done First Components
+-done Text Editor Setup
+-done First Component in Detail
+-done JSX Rules
+-done Nested Components and Tools
+-done JSX CSS
+-done JXC JS
+-done Props
+-done Props Destructuring
+-done Props Children
+-done Simple List
+-done Proper List
+-done Key Prop and Spread Operator
+-done Event Basics
+-done Input and Export Statements
+-done Free Hosting
+-done Advanced Intro
+-done Get Started Project
+-done Install Starter
+-done Starter Overviews
+-done UseState -Simple Use Case
+-done UseState -Basics
+-done General Rules of Hooks
+-done UseState -Array Example
+-done UseState -Object Example
+-done UseState -Multiple State Values
+-done Simple Counter
+-done Complex Counter(functional update form)
+-done Matching Projects Review
+-done UseEffect -Basics
+-done UseEffect -Conditional
+-done UseEffect -Dependency List
+-done UseEffect -Cleanup Function
+-done UseEffect -Fetch Data
+-done Multiple Returns
+-done Multiple Returns -fetching data
+-done Short Circuit Operators
+-done Ternary Operator
+-done Show/Hide component
+-done Form Basics
+-done Controlled Inputs
+-done Add Item To The List
+-done Multiple Inputs
+-done useRef
+-done useReducer -useState Setup
+-done useReducer -useReducer Setup
+-done useReducer -Add Item
+-done useReducer -Remove Item
+-done Prop Drilling
+-done Context API/useContext
+-done Custom Hooks - useFetch
+-done PropTypes -Setup
+-done PropTypes -Images
+-done PropTipes - Default Values
+-done React Router Intro
+-done React Router -Basic Setup
+-done React Router -Error and Switch Component
+-done React Router -Links
+-done React Router -URL Params and Placeholder
+-done React Optimization Warning
+-done React.memo
+-done useCallback
+-done useMemo
+-done useCallBack -Fetch example
